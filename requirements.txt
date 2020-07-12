@@ -1,0 +1,9 @@
+numpy>=1.14.2
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.5.1+cu101
+torchvision
+matplotlib
+Pillow>=6.2.0
+tqdm>=4.21.0
+annoy
+
